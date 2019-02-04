@@ -1,2 +1,5 @@
 # hellow-world
-just another repository
+
+Salut Humans!
+
+Hubot here, I like Node.js and Coffeescript. 
